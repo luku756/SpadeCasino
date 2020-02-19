@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Player.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SevenPoker.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Poker.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Slot.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Draw.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Holdem.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackJack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Spade Casino.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\S1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S5.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S6.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S7.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S8.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S9.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S10.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S11.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S12.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\S13.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="image\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D5.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D6.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D7.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D8.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D9.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D10.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D11.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D12.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\D13.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H5.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H6.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H7.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H8.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H9.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H10.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H11.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H12.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\H13.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C5.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C6.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C7.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C8.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C9.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C10.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C11.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C12.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\C13.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\BACK.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Bet_Bing.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Bet_Call.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Bet_Check.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Bet_Dadang.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Bet_Die.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Bet_Half.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Bet_Quarter.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Updater.exe" />
+    <None Include="Image\Holdem_Call.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Holdem_Check.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Holdem_Fold.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Holdem_Raise.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Holdem_Raise_1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Holdem_Raise_2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Holdem_Raise_3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Holdem_Raise_4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\Holdem_AllIn.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\BlackJack_DoubleDown.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\BlackJack_Hit.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\BlackJack_Insurance.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\BlackJack_Split.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Image\BlackJack_Stay.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+</Project>
